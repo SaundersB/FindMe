@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					8B7C69B71D7B2FEA004D7F2F = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 4A9CJV2EBC;
 					};
 					8B7C69D31D7B2FEA004D7F2F = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -419,6 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FindMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "saunders-brandon.FindMe";
@@ -430,6 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FindMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "saunders-brandon.FindMe";
